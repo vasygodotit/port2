@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1708396978
+icon.svg::CompressedTexture2D::8163541152546128322::1707378860::1707378876::1::::<><>::
+kot_xixixi 5.png::CompressedTexture2D::5244732962402294781::1707649291::1707649291::1::::<><>::
+teleport-export-export.png::CompressedTexture2D::6485793052849817274::1707649286::1707649286::1::::<><>::
+::res://main_menu/::1708321574
+lvl.tscn::PackedScene::483004014937947711::1708321574::0::1::::<><>::uid://bcwummsscpavd::::res://Player/Player.tscn<>uid://cyn1cf8h1f7j7::::res://teleport-export-export.png
+::res://Player/::1708322705
+Player.gd::GDScript::-1::1708322705::0::1::::<>CharacterBody2D<>::
+Player.tscn::PackedScene::2573451109848450725::1708321574::0::1::::<><>::res://Player/Player.gd<>uid://cgyt8rnbdeydh::::res://kot_xixixi 5.png
